@@ -1,0 +1,1 @@
+print("Imprimiendo un mensaje desde ejemplo2.py")
